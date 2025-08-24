@@ -12,13 +12,17 @@ The tasks include:
 ## File Structure  
 Each task is implemented in a separate file inside the project folder:  
 
-goit-js-hw-02/
-├── js/
-│ ├── task-1.js
-│ ├── task-2.js
-│ ├── task-3.js
-│ └── task-4.js
-└── index.html
+goit-js-hw-02/ 
+
+├── js/  
+│ ├── task-1.js  
+│ ├── task-2.js  
+│ ├── task-3.js  
+│ └── task-4.js  
+├── index.html  
+├── .gitignore  
+├── .prettierrc  
+└── README.md  
 
 ## How to Run  
 1. Clone this repository.  
