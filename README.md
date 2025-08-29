@@ -1,7 +1,7 @@
 # JavaScript Homework 02 – Branching and Loops  
 
 ## Project Overview  
-This project is a set of JavaScript exercises that practice the use of **branching** (`if`, `switch`) and **loops**, focusing on real-life examples of decision-making and text processing.  
+This project is a set of JavaScript exercises from GoIT Neoversity that practice the use of **branching** (`if`, `switch`) and **loops**, focusing on real-life examples of decision-making and text processing.  
 
 The tasks include:  
 1. **Droid Order Transaction** – Implementing purchase logic with credit validation.  
